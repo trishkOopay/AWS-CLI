@@ -1,4 +1,4 @@
-# AWS CLI
+# Download and install AWS CLI
 
 - [Installation](#installation)  
 - [Quick Configuration](#quick-configuration)  
